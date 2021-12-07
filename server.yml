@@ -1,0 +1,3 @@
+## Default Werwolf-Dedicated-Server Properties ##
+time-prefix-format: "[H:M:S]"
+command-line-prefix: "> "
