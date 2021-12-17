@@ -2,7 +2,6 @@
 This repo is used by the homework studios api`s.
 the api's are
 > Java Engine
-> Your mom
-> Your dad
-> Your Dog
-> Your dick
+
+
+https://stackoverflow.com/questions/3036638/how-to-extract-web-page-textual-content-in-java
