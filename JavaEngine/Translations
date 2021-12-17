@@ -1,2 +1,2 @@
-#keys;[German:translation1,French:translation2]
+#keys;[German:translation1,English:translation2]
 engine.load=German:JavaEngine wurde geladen,English:Example
