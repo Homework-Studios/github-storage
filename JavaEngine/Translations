@@ -1,4 +1,5 @@
 #keys;[German:translation1,English:translation2]
-engine.load=German:JavaEngine wurde geladen,English:JavaEngine was loadet
-engine.player.join=German §aDer Spieler: //player// §aist beigetreten,English:§aPlayer //player// §ajoined
-engine.player.jeave=German §cDer Spieler: //player// §cist beigetreten,English:§cPlayer //player// §cjoined
+engine.load=German:§fJavaEngine wurde geladen,English:§fJavaEngine was loadet
+engine.player.join=German:§aDer Spieler: //player// §aist beigetreten,English:§aPlayer //player// §ajoined
+engine.player.jeave=German:§cDer Spieler: //player// §cist beigetreten,English:§cPlayer //player// §cjoined
+engine.cfg.default=German:§fDie Standart Einstellung wurden gesetzt,English:§fThe Standart Settings were loadet
