@@ -1,2 +1,4 @@
 #keys;[German:translation1,English:translation2]
-engine.load=German:JavaEngine wurde geladen,English:Example
+engine.load=German:JavaEngine wurde geladen,English:JavaEngine was loadet
+engine.player.join=German §aDer Spieler: §b//player// §aist beigetreten,English:§aPlayer //player// §ajoined
+engine.player.jeave=German §cDer Spieler: //player// §cist beigetreten,English:§cPlayer //player// §cjoined
