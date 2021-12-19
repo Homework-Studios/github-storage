@@ -1,4 +1,6 @@
 #keys;[German:translation1,English:translation2]
+engine.version=English:1.0
+
 engine.load=German:§fJavaEngine wurde geladen,English:§fJavaEngine was loadet
 engine.player.join=German:§a//player//_§aist_beigetreten,English:_§aPlayer_//player//_§ajoined
 engine.player.leave=German:§c//player//_§chat_das_Spiel_verlassen,English:_§cPlayer_//player//_§cleft
