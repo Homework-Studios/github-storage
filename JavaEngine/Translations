@@ -1,5 +1,5 @@
 #keys;[German:translation1,English:translation2]
 engine.load=German:§fJavaEngine wurde geladen,English:§fJavaEngine was loadet
-engine.player.join=German:§aDer_Spieler:_//player//_§aist_beigetreten,English:_§aPlayer_//player//_§ajoined
-engine.player.leave=German:§cDer_Spieler:_//player//_§chat_das_Spiel_verlassen,English:_§cPlayer_//player//_§cleft
+engine.player.join=German:§a//player//_§aist_beigetreten,English:_§aPlayer_//player//_§ajoined
+engine.player.leave=German:§c//player//_§chat_das_Spiel_verlassen,English:_§cPlayer_//player//_§cleft
 engine.cfg.default=German:§fDie Standart Einstellung wurden gesetzt,English:§fThe Standart Settings were loadet
