@@ -1,4 +1,7 @@
-#This is the Cfg for The JavaEngine
-
+#This is the cfg for The JavaEngine
+Version: 1.0
 #The Language supported are: English,German
 Language: English
+
+#Auto update
+AutoUpdate: true
