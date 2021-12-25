@@ -1,6 +1,5 @@
 #This is the cfg for The JavaEngine
 Version: 1.0
-CfgExists: true
 #The Language supported are: English,German
 Language: English
 
