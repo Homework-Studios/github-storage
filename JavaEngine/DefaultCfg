@@ -5,3 +5,6 @@ Language: English
 
 #Auto update
 AutoUpdate: true
+
+#if u want the custom nametag
+Nametag: false
