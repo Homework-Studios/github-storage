@@ -4,7 +4,13 @@ Version: 1.0
 Language: English
 
 #Auto update
-AutoUpdate: true
+AutoUpdate: false
 
 #if u want the custom nametag
 Nametag: false
+
+#player Drops Theyr head after death
+HeadDrop: true
+
+#loadstone chunkloader
+LoadstoneChunkloader: true
