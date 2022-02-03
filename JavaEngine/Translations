@@ -9,4 +9,4 @@ engine.arguments.missing=German:§4§lEs fehlen Argumente!;;English:§4§lThere 
 engine.arguments.wrong=German:§4§lDie Argumente sind Falsch!;;English:§4§lThe argumenst are wrong!
 engine.chunkload.notloadet=German:§c§lDieser Chunk ist nicht Geladen;;English:§c§lThis Chunk isn't loadet
 engine.chunkload.loadet=German§a§lDieser Chunk ist Geladen;;English:§a§lThus Chunk is loadet
-engine.vanillaitem.coockedtropical=German§fTropenfisch;;English:§fTropical Fish
+engine.vanillaitem.coockedtropical=German:§fTropenfisch;;English:§fTropical Fish
