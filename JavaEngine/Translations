@@ -13,3 +13,4 @@ engine.chunkload.loadet=German:§a§lDieser Chunk ist Geladen;;English:§a§lThi
 engine.chunkload.nownotloadet=German:§c§lDieser Chunk ist nun nichtmehr Geladen;;English:§c§lThis Chunk is not loadet now
 engine.vanillaitem.coockedtropical=German:§fGebratener Tropenfisch;;English:§fCooked Tropical Fish
 engine.permission.level.error=German:§4Dein Berechtigungslevel ist nicht hoch genug, du brauchst ein Berechtigungslevel von %%LEVEL%%;;English:§4Your permission level is not high enough, you need a permission level of %%LEVEL%%
+engine.button.exit=German:§cVerlassen;;English:§cExit
