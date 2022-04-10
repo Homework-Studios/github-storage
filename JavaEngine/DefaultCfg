@@ -14,3 +14,6 @@ HeadDrop: true
 
 #loadstone chunkloader
 LoadstoneChunkloader: true
+
+#custom crafting on default crafting table enabled
+CraftingTableReplaced : true
