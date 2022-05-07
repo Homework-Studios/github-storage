@@ -17,3 +17,6 @@ LoadstoneChunkloader: true
 
 #custom crafting on default crafting table enabled
 CraftingTableReplaced : true
+
+#this makes it possible to open two doors at once
+DoorOpenerEnabled : true
