@@ -20,3 +20,10 @@ CraftingTableReplaced : true
 
 #this makes it possible to open two doors at once
 DoorOpenerEnabled : true
+
+#this enabels a custom craftingtable even with a 5x5 grid
+CustomCraftingTable : false
+
+#this is the parabel amplifier u can see the chances if u draw a parabel with the formula x^2*(your amplifier)+10
+#the y axis to 0 is the under the line is the chance *10
+hoe_unbreakingenchant_modifier : 0.55
