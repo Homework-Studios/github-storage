@@ -1,7 +1,9 @@
 #This is the cfg for The JavaEngine
-Version: 1.0
-#The Language supported are: English,German
+Version: 0.1
+#Here you can enter, which language is the server default in translation table the format is:    key=Language:text;;OtherLanguage:text
 Language: English
+#same as local text file but u can do it for subservers too
+DigitalTranslationTable : https://raw.githubusercontent.com/Homework-Studios/github-storage/main/JavaEngine/Translations
 
 #Auto update
 AutoUpdate: false
@@ -24,3 +26,6 @@ CustomCraftingTable : false
 #this is the parabel amplifier u can see the chances if u draw a parabel with the formula x^2*(your amplifier)+10
 #the y axis to 0 is the under the line is the chance *10
 hoe_unbreakingenchant_modifier : 0.55
+
+#permisson levels are a way, to handle permission u can asing them to the commands in the automaticly generated file
+permissionLevels : true
